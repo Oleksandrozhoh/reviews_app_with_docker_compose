@@ -1,4 +1,4 @@
-var baseUrl = 'http://reviews-api.example.com:80'; // Address for the backend/API server
+var baseUrl = 'http://localhost:3000'; // Address for the backend/API server
 
 // Add product
 $("#product-form").submit(function (e) {
